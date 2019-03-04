@@ -1,6 +1,6 @@
 # permissions-fixer
 
-To check and fix the permissions of a volume:
+Check and fix the permissions of a volume:
 
 check for read/write access: 
 
